@@ -12,4 +12,15 @@ If don't know which object to detect -> how to design the kernel
 + stagegic-> assigning random value -> backpropergate until get optimal value
 
 What is the disadvantage of traditional DL -> high computational problem -> CNN can reduce it a bit, how can it help this problem
+example
+4x4 image -> 16 pixel -> flat to 16 input layer -> 
+
+hidden layer -> asign random value for kernel -> 
+
+why pick kernel size is 4 or 3: 
+
+
+
+![image](https://github.com/thanhtie/IMP231-Natural-Language-Processing/assets/92991572/75fdcfd9-1452-4690-87f0-be994565f2d9)
+
 
