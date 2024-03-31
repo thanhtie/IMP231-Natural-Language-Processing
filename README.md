@@ -1,4 +1,6 @@
 # Natural-Language-Processing
+References: [Stanford CS224N](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+
 
 Lecture 3: CNN and RNN for Sentiment Analysis
 
