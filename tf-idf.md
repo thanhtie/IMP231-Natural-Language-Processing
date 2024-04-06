@@ -15,4 +15,4 @@ Step 3: calculate the df for each term
 
 Step 4: calculate the tf-idf by using formula log2(N/df) Note: N is #total of document
 
-Step 5: calculate tf-idf = tf*idf = tf*log2(N/df)
+Step 5: calculate tf-idf = tf * idf = tf * log2(N/df)
