@@ -1,5 +1,6 @@
 # Natural-Language-Processing
 References: [Stanford CS224N](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+
 Basic concept references: [NLP Tutorial Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)
 
 Lecture 3: CNN and RNN for Sentiment Analysis
