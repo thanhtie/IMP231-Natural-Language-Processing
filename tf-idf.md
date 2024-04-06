@@ -1,5 +1,7 @@
 # Natural-Language-Processing
 
+[Explaination](https://www.youtube.com/watch?v=ATK6fm3cYfI): (have a bit changes in tf definition)
+
 ![image](https://github.com/thanhtie/IMP231-Natural-Language-Processing/assets/92991572/98e7c10d-d644-4312-925a-998783cc8bf1)
 
 ![image](https://github.com/thanhtie/IMP231-Natural-Language-Processing/assets/92991572/832fcb9f-6d03-4b74-a04b-ceefb7b420f7)
