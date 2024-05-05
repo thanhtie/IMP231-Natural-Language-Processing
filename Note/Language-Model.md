@@ -17,4 +17,15 @@ Need to know the 2 input to generate output:
 + what is the current output
 
 
+Search engine concept:
+<img width="978" alt="image" src="https://github.com/thanhtie/IMP231-Natural-Language-Processing/assets/92991572/63b266a4-32c8-4065-870e-6b1fe1f84ff6">
+
+K ~ V
+
+Final exam:
+
+Language model
+TF IDF
+some basic question
+
 
